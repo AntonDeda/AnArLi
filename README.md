@@ -1,2 +1,1 @@
-# AnArLi
-Projekti ne Web-inxhinieri
+# Grupi1
